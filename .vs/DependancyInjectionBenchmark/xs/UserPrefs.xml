@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{2D550825-8457-4CD0-A583-954E8D91589F}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="DependancyInjectionBenchmark/README.md">
+    <Files>
+      <File FileName="DependancyInjectionBenchmark/Program.cs" Line="22" Column="1" />
+      <File FileName="DependancyInjectionBenchmark/Model/ValueProvider.cs" />
+      <File FileName="DependancyInjectionBenchmark/Model/IValueProvider.cs" />
+      <File FileName="DependancyInjectionBenchmark/README.md" Line="1" Column="5" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="DependancyInjectionBenchmark" expanded="True">
+            <Node name="DependancyInjectionBenchmark" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="Model" expanded="True" />
+              <Node name="README.md" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.DependancyInjectionBenchmark PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
